@@ -10,4 +10,4 @@ spec:
       - backend:
           serviceName: podinfo
           servicePort: 9898
-    host: podinfo.<REPLACE WITH INGESS IP>.nip.io
+    host: podinfo.20.84.36.77.nip.io
